@@ -1,2 +1,2 @@
 # ansi-escape-dart
-provides a Process class implementation next to the official one with the addition of ANSI characters
+This is a Process class implementation next to the official one with the addition that it also provides the ANSI characters potentially printed by the child process
