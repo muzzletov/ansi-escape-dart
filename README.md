@@ -1,2 +1,2 @@
 # ansi-escape-dart
-This is a Process class implementation next to the official one with the addition that it also provides the ANSI characters produced by the child process. Can be incoporated into a flutter app. Includes sample dart ffi file.
+This is a Process class implementation next to the official one with the addition that it also provides the ANSI sequences produced by the child process. Can be incoporated into a flutter app. Includes sample dart ffi file.
